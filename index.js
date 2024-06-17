@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching NitrateArena","Developing NitrateArena"];
+const statusMessages = ["𝐖𝐚𝐭𝐜𝐡𝐢𝐧𝐠 𝐒𝐡𝐢𝐧𝐞 𝐒𝐌𝐏","𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐛𝐲 𝐍𝐢𝐭𝐫𝐚𝐭𝐞"];
 
 
 let currentIndex = 0;
